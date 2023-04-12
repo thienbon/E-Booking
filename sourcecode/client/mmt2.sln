@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32413.511
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "mmt2", "mmt2\mmt2.pyproj", "{8D08D748-57E5-40FD-AFF8-917D03FBA416}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8D08D748-57E5-40FD-AFF8-917D03FBA416}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D08D748-57E5-40FD-AFF8-917D03FBA416}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3D675047-D7AA-467F-A52B-3DBC651430F0}
+	EndGlobalSection
+EndGlobal
